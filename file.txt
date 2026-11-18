@@ -1,3 +1,5 @@
 hello world 
 i am me
-who are you
+why not
+The hunk header tells you the range of lines Git 
+is displaying, not necessarily the exact location of every change.
